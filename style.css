@@ -1,0 +1,116 @@
+body {
+    background-color: blanchedalmond;
+}
+
+
+h1 {
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.box {
+    border: solid 1px black;
+    margin: 10px 10px
+}
+
+#colors {
+    padding-left: 10px;
+}
+
+.color-box-green {
+    border: solid 1px green;
+    background-color: green;
+    display: inline-block;
+    width: 30%;
+    margin-left: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+    
+}
+.color-box-red {
+    border: solid 1px red;
+    background-color: red;
+    display: inline-block;
+    width: 30%;
+    margin-left: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+.color-box-purple {
+    border: solid 1px purple;
+    background-color: purple;
+    display: inline-block;
+    width: 30%;
+    margin-left: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 40px;
+ 
+}
+
+.color-label, .color-hex {
+    text-align: center;
+    color: white;
+    opacity: 0.7;
+}
+
+.panel {
+    font-family: roboto;
+    padding-left: 10px;
+
+}
+.panel-2 {
+    font-family:"dancing script";
+    padding-left: 10px;
+
+}
+.panel-3{
+    font-family: dosis;
+    padding-left: 10px;
+}
+
+#styling {
+    padding-left: 10px;
+}
+
+.h1 {
+    font-size: 45px;
+    font-family: roboto;
+    padding-left: 10px;
+}
+
+.font1 {
+    font-family: roboto;
+    
+}
+
+.h2 {
+    font-family:"dancing script";
+    font-size: 35px;
+    padding-left: 10px;
+}
+
+.font2 {
+ font-family: "dancing script";   
+ 
+}
+
+.h3{
+    font-family: dosis;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.font3{
+    font-family: dosis; 
+}
+
+footer{
+    font-family: "dancing script";
+    font-weight: 900;
+    font-size: 22px;
+
+}
