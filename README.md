@@ -1,2 +1,2 @@
-# Web-Style-Guide-
-Web Style Guide Codecademy project
+#About my 2nd project with codecademy.
+This is my 2nd project with codecademy focusing on CSS & HTML.
